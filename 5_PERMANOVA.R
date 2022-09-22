@@ -6,7 +6,7 @@ library(vegan)
 #load data
 load(url("http://github.com/secanno/coralreef_stressorinteractions/blob/main/data.RData?raw=true"))
 
-#Check to ensure samples in data_env are in the same order as in abund_table
+#Check to ensure samples in data_env are in the same order as in data_cover
 data_env <- data_env[rownames(data_cover),]
 
 #filter out samples taxas that have zero entries
