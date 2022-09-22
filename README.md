@@ -1,6 +1,6 @@
 # Coral Reef Stressor Interactions
 
-Data and R code for a manuscript currently in review that investigates differences in benthic communities across gradients of local human disturbance and exposure to past heat stress in the central Pacific Islands.
+Data and R code for a manuscript currently in review that investigates interactions between local human disturbance and past exposure to heat stress in the central Pacific Islands.
 
 Included in this repository are:
 
