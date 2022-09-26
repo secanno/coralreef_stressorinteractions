@@ -1,5 +1,7 @@
 # Coral Reef Stressor Interactions
 
+[![](https://zenodo.org/badge/540081570.svg)](https://zenodo.org/badge/latestdoi/540081570)
+
 Data and R code for a manuscript currently in review that investigates interactions between local human disturbance and past exposure to heat stress in the central Pacific Islands.
 
 Included in this repository are:
