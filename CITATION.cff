@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Coral Reef Stressor Interactions
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sara Cannon
+    name-particle: Sara
+    family-names: Cannon
+    email: s.cannon@oceans.ubc.ca
+    affiliation: University of British Columbia
+    orcid: 'https://orcid.org/0000-0002-1402-6370'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7114574
+repository-code: >-
+  https://github.com/secanno/coralreef_stressorinteractions
+keywords:
+  - coral reefs
+  - stressor interactions
+  - ecology
+  - climate change
