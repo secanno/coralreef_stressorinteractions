@@ -65,24 +65,6 @@ data_env <- as.data.frame(data_env)
 str(data_env)
 
 
-#run anosim for atoll comparisons (for all taxa) 
-anosim(data_cover, Atoll)
-anosim(data_cover, Country)
-
-
-
-
-##################
-#rerun analyses for just coral taxa 
-anosim(data_coral, Atoll)
-anosim(data_coral, Country)
-
-
-##################
-#rerun analyses for just MA taxa 
-anosim(data_ma, Atoll)
-anosim(data_ma, Country)
-
 
 #########################################
 #BIOENV analyses
